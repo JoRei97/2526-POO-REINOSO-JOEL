@@ -1,5 +1,5 @@
 # ===============================
-# SISTEMA DE INVENTARIO (SIMPLE)
+# SISTEMA DE INVENTARIO
 # ===============================
 
 # Clase Producto
